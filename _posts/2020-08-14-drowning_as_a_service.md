@@ -26,5 +26,5 @@ How could you be drowning yourself today?
 
 Who could you be drowning?
 
-## Caveats
+## Note
 Please don't use this as an excuse to force emacs on people.  
