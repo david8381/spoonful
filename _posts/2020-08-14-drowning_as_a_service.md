@@ -27,4 +27,4 @@ How could you be drowning yourself today?
 Who could you be drowning?
 
 ## Caveats
-Please don't use this as an excuse to force emacs on people.  Please do use this as an excuse to help them discover the benefits of vim.
+Please don't use this as an excuse to force emacs on people.  
