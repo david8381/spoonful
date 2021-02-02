@@ -5,10 +5,10 @@ description: A childhood memory that serves as an analogy.
 categories: [markdown]
 title: How adding tests and documentation for your code is like drowning.
 ---
-# Drowning as a Service (DASS)
+# Drowning as a Service (DAAS)
 As a young child I saw the movie "The Abyss." I don't remember what it's about, other than it involved a submarine, the ocean, and I think aliens.  
 
-One thing I do remember is the special sciency oxygenated water that you can't drown it.  If someone tries drowning you in it, You might not like it at first.
+One thing I do remember is the special sciency oxygenated water that you can't drown in.  If someone tries drowning you in it, You might not like it at first.
 You might panic. It might be more effort than just breathing regular air.  But you're going to be OK. 
 And you get all the benefits that go with being able to breathe under water.
 
