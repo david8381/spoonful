@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://david8381.github.io/spoonful/feed.xml" rel="self" type="application/atom+xml" /><link href="https://david8381.github.io/spoonful/" rel="alternate" type="text/html" /><updated>2021-02-02T13:23:35-06:00</updated><id>https://david8381.github.io/spoonful/feed.xml</id><title type="html">A spoonful of bias</title><subtitle>An easy to use blogging platform with support for Jupyter Notebooks.</subtitle><entry><title type="html">How adding tests and documentation for your code is like drowning.</title><link href="https://david8381.github.io/spoonful/markdown/2020/08/14/drowning_as_a_service.html" rel="alternate" type="text/html" title="How adding tests and documentation for your code is like drowning." /><published>2020-08-14T00:00:00-05:00</published><updated>2020-08-14T00:00:00-05:00</updated><id>https://david8381.github.io/spoonful/markdown/2020/08/14/drowning_as_a_service</id><content type="html" xml:base="https://david8381.github.io/spoonful/markdown/2020/08/14/drowning_as_a_service.html">&lt;h1 id=&quot;drowning-as-a-service-daas&quot;&gt;Drowning as a Service (DAAS)&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://david8381.github.io/spoonful/feed.xml" rel="self" type="application/atom+xml" /><link href="https://david8381.github.io/spoonful/" rel="alternate" type="text/html" /><updated>2021-02-03T19:04:00-06:00</updated><id>https://david8381.github.io/spoonful/feed.xml</id><title type="html">A spoonful of bias</title><subtitle>An easy to use blogging platform with support for Jupyter Notebooks.</subtitle><entry><title type="html">A Significant Confession</title><link href="https://david8381.github.io/spoonful/markdown/2021/02/02/SignificantFigures.html" rel="alternate" type="text/html" title="A Significant Confession" /><published>2021-02-02T00:00:00-06:00</published><updated>2021-02-02T00:00:00-06:00</updated><id>https://david8381.github.io/spoonful/markdown/2021/02/02/SignificantFigures</id><content type="html" xml:base="https://david8381.github.io/spoonful/markdown/2021/02/02/SignificantFigures.html">&lt;h1 id=&quot;a-confession&quot;&gt;A Confession&lt;/h1&gt;
+&lt;p&gt;It was a cold winter evening in January.  My son brought me his Chemistry test for grading, and I noticed a disturbing trend. All of his calculated answers were just a little off. I could tell that he was making errors due to not dealing properly with significant figures.As a practicing data scientist, you can imagine how heart wrenching this was. My own son.&lt;/p&gt;
+
+&lt;p&gt;I called him in and asked him to sit down. He knew I had something serious to discuss. I showed him his test with the marks, expectinging nothing else needed to be said. He seemed unmoved.&lt;/p&gt;
+
+&lt;p&gt;Finally, I asked him: Where did you learn such disregard for precision and significant figures?” His answer cut me straight to the heart.&lt;/p&gt;
+
+&lt;p&gt;“I learned it from you Dad.”&lt;/p&gt;
+
+&lt;p&gt;I staggered and fell back into my chair.&lt;/p&gt;
+
+&lt;p&gt;He was right.&lt;/p&gt;
+
+&lt;p&gt;I, like every other technical person, snickers at the sight of a measurement in inches that indicates precision at the atomic level. But I realized, there are cases that I don’t really understand.&lt;/p&gt;
+
+&lt;p&gt;I’ve been peripherally aware of the rules, but I have a confession: I’ve been winging it, just like my son has been.&lt;/p&gt;
+
+&lt;p&gt;I realized that the problem for me was I never intuitively picked up the rules because there are legitimately ambiguous cases.&lt;/p&gt;
+
+&lt;p&gt;How many significant figures are in the number &lt;em&gt;100&lt;/em&gt;?&lt;/p&gt;
+
+&lt;p&gt;It has at least one. If we wanted to communicate there are 3, we could
+always write &lt;em&gt;100.&lt;/em&gt; But surely there exist situations where we know we
+have 2. How do we specify that?&lt;/p&gt;
+
+&lt;p&gt;#An obnoxious old friend to the rescue&lt;/p&gt;
+
+&lt;p&gt;It turns out, scientiic notation is more than just the occassional obnoxious output from numpy necessitating I look up again how to supress it… it serves the purpose of specifying precisely what we know.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;1 x 10^2&lt;/em&gt; has 1, &lt;em&gt;1.0 x 10^2&lt;/em&gt; has 2, and &lt;em&gt;1.00 x 10^2&lt;/em&gt; has 3 significant figures.&lt;/p&gt;</content><author><name></name></author><summary type="html">A Confession It was a cold winter evening in January. My son brought me his Chemistry test for grading, and I noticed a disturbing trend. All of his calculated answers were just a little off. I could tell that he was making errors due to not dealing properly with significant figures.As a practicing data scientist, you can imagine how heart wrenching this was. My own son.</summary></entry><entry><title type="html">How adding tests and documentation for your code is like drowning.</title><link href="https://david8381.github.io/spoonful/markdown/2020/08/14/drowning_as_a_service.html" rel="alternate" type="text/html" title="How adding tests and documentation for your code is like drowning." /><published>2020-08-14T00:00:00-05:00</published><updated>2020-08-14T00:00:00-05:00</updated><id>https://david8381.github.io/spoonful/markdown/2020/08/14/drowning_as_a_service</id><content type="html" xml:base="https://david8381.github.io/spoonful/markdown/2020/08/14/drowning_as_a_service.html">&lt;h1 id=&quot;drowning-as-a-service-daas&quot;&gt;Drowning as a Service (DAAS)&lt;/h1&gt;
 &lt;p&gt;As a young child I saw the movie “The Abyss.” I don’t remember what it’s about, other than it involved a submarine, the ocean, and I think aliens.&lt;/p&gt;
 
 &lt;p&gt;One thing I do remember is the special sciency oxygenated water that you can’t drown in.  If someone tries drowning you in it, You might not like it at first.
